@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Basic Colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#757575</color>
+    <color name="darkwhite">#F5F5F5</color>
+    <color name="blue">#2196F3</color>
+    
+    <!-- Primary Colors -->
+    <color name="primary">#2196F3</color>
+    <color name="primary_dark">#1976D2</color>
+    <color name="primary_light">#BBDEFB</color>
+    
+    <!-- Accent Colors -->
+    <color name="accent">#FF4081</color>
+    <color name="accent_dark">#F50057</color>
+    
+    <!-- Category Colors -->
+    <color name="food_color">#4CAF50</color>
+    <color name="transport_color">#FF9800</color>
+    <color name="health_color">#F44336</color>
+    <color name="education_color">#9C27B0</color>
+    <color name="salary_color">#00BCD4</color>
+    <color name="other_color">#607D8B</color>
+    
+    <!-- Status Colors -->
+    <color name="success">#4CAF50</color>
+    <color name="warning">#FFC107</color>
+    <color name="error">#F44336</color>
+    <color name="info">#2196F3</color>
+    
+    <!-- Background Colors -->
+    <color name="background_light">#FFFFFF</color>
+    <color name="background_dark">#F5F5F5</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="android_green">#3DDC84</color>
+    <color name="grid_line">#33FFFFFF</color>
+    
+    <!-- Text Colors -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_hint">#BDBDBD</color>
+    <color name="budget_green">#28AD2F</color>
+    
+    <!-- Additional Theme Colors -->
+    <color name="teal">#009688</color>
+    <color name="teal_light">#B2DFDB</color>
+    <color name="teal_dark">#00796B</color>
+    
+    <color name="indigo">#3F51B5</color>
+    <color name="indigo_light">#C5CAE9</color>
+    <color name="indigo_dark">#303F9F</color>
+    
+    <color name="amber">#FFC107</color>
+    <color name="amber_light">#FFECB3</color>
+    <color name="amber_dark">#FFA000</color>
+    
+    <color name="deep_purple">#673AB7</color>
+    <color name="deep_purple_light">#D1C4E9</color>
+    <color name="deep_purple_dark">#512DA8</color>
+    
+    <color name="light_blue">#03A9F4</color>
+    <color name="light_blue_light">#B3E5FC</color>
+    <color name="light_blue_dark">#0288D1</color>
+    
+    <color name="lime">#CDDC39</color>
+    <color name="lime_light">#F0F4C3</color>
+    <color name="lime_dark">#AFB42B</color>
+    
+    <color name="deep_orange">#FF5722</color>
+    <color name="deep_orange_light">#FFCCBC</color>
+    <color name="deep_orange_dark">#E64A19</color>
+    
+    <color name="brown">#795548</color>
+    <color name="brown_light">#D7CCC8</color>
+    <color name="brown_dark">#5D4037</color>
+    
+    <color name="blue_grey">#607D8B</color>
+    <color name="blue_grey_light">#CFD8DC</color>
+    <color name="blue_grey_dark">#455A64</color>
+    
+    <!-- Orange Colors -->
+    <color name="orange">#FF9800</color>
+    <color name="orange_light">#FFE0B2</color>
+    <color name="orange_dark">#F57C00</color>
+    <color name="darkOrange">#FF8C00</color>
+    
+    <!-- Yellow Colors -->
+    <color name="yellow">#FFEB3B</color>
+    <color name="yellow_light">#FFF9C4</color>
+    <color name="yellow_dark">#FBC02D</color>
+    <color name="yellow_accent">#FFD600</color>
+    
+    <!-- Red Colors -->
+    <color name="red">#F44336</color>
+    <color name="red_light">#FFCDD2</color>
+    <color name="red_dark">#D32F2F</color>
+    <color name="red_accent">#FF1744</color>
+    <color name="crimson">#DC143C</color>
+    <color name="maroon">#800000</color>
+    
+    <!-- GrayGreen Colors -->
+    <color name="grayGreen">#2A9D8F</color>
+    <color name="grayGreen_light">#B2DFDB</color>
+    <color name="grayGreen_dark">#1B7D6F</color>
+    <color name="grayGreen_accent">#00BFA5</color>
+    <color name="sage">#9CAF88</color>
+    <color name="moss">#8A9A5B</color>
+    
+    <!-- Gradient Colors -->
+    <color name="gradient_start">#2196F3</color>
+    <color name="gradient_end">#00BCD4</color>
+    
+    <!-- Card Colors -->
+    <color name="card_shadow">#20000000</color>
+    <color name="card_stroke">#1A000000</color>
+    
+    <!-- Button Colors -->
+    <color name="button_primary">#2196F3</color>
+    <color name="button_secondary">#757575</color>
+    <color name="button_disabled">#BDBDBD</color>
+    
+    <!-- Divider Colors -->
+    <color name="divider">#1A000000</color>
+    <color name="divider_light">#0D000000</color>
+</resources>

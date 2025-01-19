@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MoneyMap</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="addtransaction">Add Transaction</string>
+    <string name="title">Title</string>
+    <string name="amount">Amount</string>
+    <string name="appname">Money Map</string>
+    <string name="addBtn">ADD</string>
+    <string-array name="category">
+        <item>Category</item>
+        <item>Food and drinks</item>
+        <item>Transport</item>
+        <item>Health</item>
+        <item>Education</item>
+        <item>Salary</item>
+        <item>Other</item>
+    </string-array>
+    <string name="date">Date</string>
+    <string name="save">SAVE</string>
+    <string-array name="type">
+        <item>Expense</item>
+        <item>Income</item>
+    </string-array>
+</resources>
